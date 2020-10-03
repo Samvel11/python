@@ -395,3 +395,5 @@ import random
 # 	if a.index(i) % 2 == 0:
 # 		b += [i]
 # print(b)	
+
+izmenenie
